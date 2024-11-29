@@ -1,3 +1,4 @@
+package org.kotov.tp1;
 public class Chien extends Animal {
 
 	public Chien(String nomAnimal, TypeAnimal typeAnimal) {

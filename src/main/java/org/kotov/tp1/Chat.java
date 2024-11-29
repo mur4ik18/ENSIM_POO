@@ -1,3 +1,4 @@
+package org.kotov.tp1;
 public class Chat extends Animal {
 
 	public Chat(String nomAnimal, TypeAnimal typeAnimal) {

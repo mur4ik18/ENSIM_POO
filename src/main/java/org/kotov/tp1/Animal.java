@@ -1,3 +1,6 @@
+package org.kotov.tp1;
+
+
 public abstract class Animal {
 
 	private String nomAnimal;

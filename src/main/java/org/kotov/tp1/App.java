@@ -1,3 +1,4 @@
+package org.kotov.tp1;
 public class App {
 
 	private static Zoo zoo;
