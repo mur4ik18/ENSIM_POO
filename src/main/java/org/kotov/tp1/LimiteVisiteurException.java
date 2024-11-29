@@ -1,7 +1,9 @@
-package org.kotov.tp1;
-
 public class LimiteVisiteurException extends Exception {
-    public LimiteVisiteurException(String s) {
-        super(s);
-    }
+
+	private static final long serialVersionUID = -6359543674897857575L;
+
+	@Override
+	public String getMessage() {
+		return "La limite de visiteur est atteinte";
+	}
 }
